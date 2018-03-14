@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ubery/cleanplate.git"
+    "url": "git+https://github.com/bartoszlorek/cleanplate.git"
   },
   "author": "Bartosz Lorek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ubery/cleanplate/issues"
+    "url": "https://github.com/bartoszlorek/cleanplate/issues"
   },
-  "homepage": "https://github.com/ubery/cleanplate#readme",
+  "homepage": "https://github.com/bartoszlorek/cleanplate#readme",
   "dependencies": {
     "jimp": "^0.2.28"
   },
